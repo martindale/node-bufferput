@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/gasteve/node-bufferput.git"
+    "url": "http://github.com/bitpay/node-bufferput.git"
   }, 
   "scripts" : {
     "test" : "expresso"
